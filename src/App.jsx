@@ -1,5 +1,5 @@
 import Header from "./components/Header.jsx";
-import StateLogin from "./components/StateLogin.jsx";
+import Login from "./components/Login.jsx";
 //import Signup from "./components/Signup.jsx";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <main>
-        <StateLogin />
+        <Login />
       </main>
     </>
   );
